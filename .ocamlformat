@@ -1,0 +1,8 @@
+profile = janestreet
+break-cases = fit
+parse-docstrings = true
+wrap-comments = true
+margin = 100
+function-indent = 3
+extension-indent = 3
+match-indent = 3

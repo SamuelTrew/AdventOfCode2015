@@ -1,0 +1,8 @@
+{
+   "ocaml.sandbox": {
+      "kind": "opam",
+   },
+   "editor.formatOnSave": true,
+   "editor.formatOnPaste": true,
+   "ocaml.useOcamlEnv": false
+}

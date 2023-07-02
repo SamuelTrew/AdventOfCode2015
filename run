@@ -1,0 +1,5 @@
+# ~/.bash/bin
+
+dune fmt
+dune build
+dune exec aoc $1
