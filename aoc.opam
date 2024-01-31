@@ -11,7 +11,7 @@ doc: "https://url/to/documentation"
 bug-reports: "https://github.com/SamuelTrew/AdventOfCode2015/issues"
 depends: [
   "ocaml"
-  "dune" {>= "3.9"}
+  "dune" {>= "3.13"}
   "odoc" {with-doc}
 ]
 build: [
